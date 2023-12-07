@@ -149,6 +149,10 @@ SAMS leverages a selected set of front-end and back-end technologies for optimal
 
 The purpose of implementing the Student Achievement Management System is to revolutionize the recognition and celebration of educational accomplishments within academic institutions. By utilizing a technology stack of HTML, CSS, JavaScript, PHP, and MySQL, SAMS creates a seamless experience for administrators, teachers, and students, promoting collaboration and a culture of achievement.
 
+### Project Report:
+
+<a href="https://drive.google.com/file/d/1t0Lz91pxrBLzUtFzlFdE79ztFSEUfhMD/view?usp=sharing">Project Report Link</a>
+
 
 
 
